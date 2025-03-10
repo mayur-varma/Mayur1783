@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mayur1783
+- 👋 Hi, I’m @mayur-varma
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on basics of hacking
